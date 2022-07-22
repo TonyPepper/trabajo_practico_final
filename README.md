@@ -1,2 +1,2 @@
 # trabajo_practico_final
-proyecto de entorno
+Item 4 del trabajo final. Es un indicador estadistico de longitud de oraciones
