@@ -1,4 +1,5 @@
 #!/bin/bash
+#Indicador estadístico de longitud de palabras (la más corta, la más larga y el promedio de longitud).
 
 TEXTO=$1
 MIN=100
@@ -7,12 +8,10 @@ MAXN=0
 CONT_TOTAL=0
 CONT_PAL=0
 
-### VER SI SE PUEDE PONER MIN=${#word} PARA MINIMO
-
 for word in $(cat $TEXTO)
 do
   PALN=${#word}
-  PAL=0
+
   CONT_TOTAL=$((CONT_TOTAL+1))
   CONT_PAL=$((CONT_PAL+PALN))
 
