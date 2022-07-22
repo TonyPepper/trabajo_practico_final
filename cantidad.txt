@@ -1,2 +1,0 @@
-texto.txt:2:
-texto.txt:3:
