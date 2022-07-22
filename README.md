@@ -1,2 +1,2 @@
 # trabajo_practico_final
-proyecto de entorno
+Primer item a resolver. Es un indicador estadistico de longitud de las palabras del contenido
