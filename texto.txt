@@ -4,6 +4,7 @@ todo muy tranquilo Luciano por suerte. sigo teniendo el espiritu emprendedor y s
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Javier que sigas asi.
 =======
 Javier que sigas asi.
@@ -11,3 +12,6 @@ Javier que sigas asi.
 =======
 Javier que sigas asi.
 >>>>>>> ejercicio_3
+=======
+Javier que sigas asi.
+>>>>>>> ejercicio_4

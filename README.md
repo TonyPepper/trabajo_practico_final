@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Resoluciones desde el item 1 al 5 del trabajo final de la material Entorno de Programacion
 
 =======
@@ -13,3 +14,6 @@ Punto dos del trabajo final de la materia Entorno de programación. Es un indica
 =======
 Solucion item tres del trabajo. encuentra palabras que empiecen con mayuscula. agragar el archivo del texto luego de introducir el scrip
 >>>>>>> ejercicio_3
+=======
+Item 4 del trabajo final. Es un indicador estadistico de longitud de oraciones
+>>>>>>> ejercicio_4
