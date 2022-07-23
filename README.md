@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Resoluciones desde el item 1 al 5 del trabajo final de la material Entorno de Programacion
 
 =======
@@ -17,3 +18,6 @@ Solucion item tres del trabajo. encuentra palabras que empiecen con mayuscula. a
 =======
 Item 4 del trabajo final. Es un indicador estadistico de longitud de oraciones
 >>>>>>> ejercicio_4
+=======
+Solucion al programa del punto 5 del cuestionario. Se trata de un contador de lineas en blanco dentro del texto
+>>>>>>> ejercicio_5
