@@ -2,20 +2,4 @@ hola Javier. ¿como estas querido?. hola todo bien ¿y vos como andas?.
 
 todo muy tranquilo Luciano por suerte. sigo teniendo el espiritu emprendedor y siempre mirando y avanzado para adelante.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Javier que sigas asi.
-=======
-Javier que sigas asi.
->>>>>>> ejercicio_2
-=======
-Javier que sigas asi.
->>>>>>> ejercicio_3
-=======
-Javier que sigas asi.
->>>>>>> ejercicio_4
-=======
-Javier que sigas asi.
->>>>>>> ejercicio_5
