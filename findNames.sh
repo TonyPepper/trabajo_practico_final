@@ -8,5 +8,6 @@ do
   echo $word >> lista.txt
 done
 
+echo "Los nombres son: "
 grep '[A-Z]' lista.txt
 rm lista.txt
