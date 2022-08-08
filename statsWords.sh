@@ -8,7 +8,7 @@ MAXN=0
 CONT_TOTAL=0
 CONT_PAL=0
 
-for word in $(cat $TEXTO)
+for word in $(cat $TEXTO | tr ",.¿?¡!" " ")
 do
   PALN=${#word}
 

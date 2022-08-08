@@ -3,7 +3,7 @@
 
 TEXTO=$1
 
-for word in $(cat $TEXTO | tr ",." " ")
+for word in $(cat $TEXTO | tr ",.¿?¡!" " ")
 do
   echo $word >> lista.txt
 done

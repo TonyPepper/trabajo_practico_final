@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Reemplazo de subcadenas, que considere diferencias entre minúsculas y mayúsculas, pero ignore acentos. Recibe dos cadenas, y cada aparición de cadena1 debe reemplazarse por la cadena2
-TEXTO=texto.txt
+TEXTO=$1
 
 sed "s/á/a/g" $TEXTO >> noa.txt
 sed "s/é/e/g" noa.txt >> noe.txt
